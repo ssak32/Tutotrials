@@ -1,0 +1,9 @@
+https://www.nuget.org/packages/Daishi.AMQP/1.0.0
+
+Daishi.AMQP Source Code:
+-----------------------
+https://github.com/daishisystems/Daishi.AMQP
+
+Tutorial:
+--------
+https://insidethecpu.com/2015/05/22/microservices-with-c-and-rabbitmq/

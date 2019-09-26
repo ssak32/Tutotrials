@@ -1,0 +1,10 @@
+D:\MyDevelopementRepository\Tutorials\C#\Webservices\ASPNET WEB API\PeopleWebSrv\PeopleClient\bin\Debug\PeopleClient.exe.config
+D:\MyDevelopementRepository\Tutorials\C#\Webservices\ASPNET WEB API\PeopleWebSrv\PeopleClient\bin\Debug\PeopleClient.exe
+D:\MyDevelopementRepository\Tutorials\C#\Webservices\ASPNET WEB API\PeopleWebSrv\PeopleClient\bin\Debug\PeopleClient.pdb
+D:\MyDevelopementRepository\Tutorials\C#\Webservices\ASPNET WEB API\PeopleWebSrv\PeopleClient\bin\Debug\Newtonsoft.Json.dll
+D:\MyDevelopementRepository\Tutorials\C#\Webservices\ASPNET WEB API\PeopleWebSrv\PeopleClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\MyDevelopementRepository\Tutorials\C#\Webservices\ASPNET WEB API\PeopleWebSrv\PeopleClient\bin\Debug\Newtonsoft.Json.xml
+D:\MyDevelopementRepository\Tutorials\C#\Webservices\ASPNET WEB API\PeopleWebSrv\PeopleClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\MyDevelopementRepository\Tutorials\C#\Webservices\ASPNET WEB API\PeopleWebSrv\PeopleClient\obj\Debug\PeopleClient.exe
+D:\MyDevelopementRepository\Tutorials\C#\Webservices\ASPNET WEB API\PeopleWebSrv\PeopleClient\obj\Debug\PeopleClient.pdb
+D:\MyDevelopementRepository\Tutorials\C#\Webservices\ASPNET WEB API\PeopleWebSrv\PeopleClient\obj\Debug\PeopleClient.csprojResolveAssemblyReference.cache

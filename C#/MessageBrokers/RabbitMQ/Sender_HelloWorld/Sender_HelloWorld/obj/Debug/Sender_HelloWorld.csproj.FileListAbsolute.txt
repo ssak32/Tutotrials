@@ -1,0 +1,7 @@
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Sender_HelloWorld\Sender_HelloWorld\bin\Debug\Sender_HelloWorld.exe.config
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Sender_HelloWorld\Sender_HelloWorld\bin\Debug\Sender_HelloWorld.exe
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Sender_HelloWorld\Sender_HelloWorld\bin\Debug\Sender_HelloWorld.pdb
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Sender_HelloWorld\Sender_HelloWorld\bin\Debug\RabbitMQ.Client.dll
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Sender_HelloWorld\Sender_HelloWorld\obj\Debug\Sender_HelloWorld.csprojResolveAssemblyReference.cache
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Sender_HelloWorld\Sender_HelloWorld\obj\Debug\Sender_HelloWorld.exe
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Sender_HelloWorld\Sender_HelloWorld\obj\Debug\Sender_HelloWorld.pdb

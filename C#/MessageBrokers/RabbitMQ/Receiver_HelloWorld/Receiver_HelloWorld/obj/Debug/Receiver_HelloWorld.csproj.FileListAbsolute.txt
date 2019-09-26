@@ -1,0 +1,7 @@
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Receiver_HelloWorld\Receiver_HelloWorld\bin\Debug\Receiver_HelloWorld.exe.config
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Receiver_HelloWorld\Receiver_HelloWorld\bin\Debug\Receiver_HelloWorld.exe
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Receiver_HelloWorld\Receiver_HelloWorld\bin\Debug\Receiver_HelloWorld.pdb
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Receiver_HelloWorld\Receiver_HelloWorld\bin\Debug\RabbitMQ.Client.dll
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Receiver_HelloWorld\Receiver_HelloWorld\obj\Debug\Receiver_HelloWorld.csprojResolveAssemblyReference.cache
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Receiver_HelloWorld\Receiver_HelloWorld\obj\Debug\Receiver_HelloWorld.exe
+D:\MyDevelopementRepository\Tutorials\C#\MessageBrokers\RabbitMQ\Receiver_HelloWorld\Receiver_HelloWorld\obj\Debug\Receiver_HelloWorld.pdb

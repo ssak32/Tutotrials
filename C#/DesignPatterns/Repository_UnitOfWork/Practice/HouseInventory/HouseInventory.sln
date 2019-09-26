@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseInventory", "HouseInventory\HouseInventory.csproj", "{78414980-A77B-4F9A-B0B8-4F77DCD2EDA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application.Gui", "Application.Gui", "{5C32895D-4D75-4560-884E-E2C610555B87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HouseInventory.Data", "HouseInventory.Data", "{886A0EC0-5E4A-458A-9895-41A5AE347381}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HouseInventory.Dal", "HouseInventory.Dal", "{E7992703-0052-482B-B1DE-630BA0733401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseInventory.Data", "HouseInventory.Data\HouseInventory.Data.csproj", "{B52ABA56-85F4-434B-BBB7-AE21E44B6F9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseInventory.Dal", "HouseInventory.Dal\HouseInventory.Dal.csproj", "{79B608BF-EE34-4AB8-A894-B7C4D556B20C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78414980-A77B-4F9A-B0B8-4F77DCD2EDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78414980-A77B-4F9A-B0B8-4F77DCD2EDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78414980-A77B-4F9A-B0B8-4F77DCD2EDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78414980-A77B-4F9A-B0B8-4F77DCD2EDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52ABA56-85F4-434B-BBB7-AE21E44B6F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52ABA56-85F4-434B-BBB7-AE21E44B6F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52ABA56-85F4-434B-BBB7-AE21E44B6F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52ABA56-85F4-434B-BBB7-AE21E44B6F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B608BF-EE34-4AB8-A894-B7C4D556B20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B608BF-EE34-4AB8-A894-B7C4D556B20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B608BF-EE34-4AB8-A894-B7C4D556B20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B608BF-EE34-4AB8-A894-B7C4D556B20C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{78414980-A77B-4F9A-B0B8-4F77DCD2EDA0} = {5C32895D-4D75-4560-884E-E2C610555B87}
+		{B52ABA56-85F4-434B-BBB7-AE21E44B6F9D} = {886A0EC0-5E4A-458A-9895-41A5AE347381}
+		{79B608BF-EE34-4AB8-A894-B7C4D556B20C} = {E7992703-0052-482B-B1DE-630BA0733401}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ssak32devrepo.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HouseInventory\\HouseInventory.csproj
+		SccProjectTopLevelParentUniqueName1 = HouseInventory.sln
+		SccProjectName1 = HouseInventory
+		SccLocalPath1 = HouseInventory
+		SccProjectUniqueName2 = HouseInventory.Data\\HouseInventory.Data.csproj
+		SccProjectTopLevelParentUniqueName2 = HouseInventory.sln
+		SccProjectName2 = HouseInventory.Data
+		SccLocalPath2 = HouseInventory.Data
+		SccProjectUniqueName3 = HouseInventory.Dal\\HouseInventory.Dal.csproj
+		SccProjectTopLevelParentUniqueName3 = HouseInventory.sln
+		SccProjectName3 = HouseInventory.Dal
+		SccLocalPath3 = HouseInventory.Dal
+	EndGlobalSection
+EndGlobal

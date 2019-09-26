@@ -1,0 +1,97 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathCalcDaishiAMQPWebSrv", "MathCalcWebSrv\MathCalcDaishiAMQPWebSrv.csproj", "{BF550130-00EB-425D-8288-064C78966F35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathCalcDefaultWebSrv", "MathCalcDefaultWebSrv\MathCalcDefaultWebSrv.csproj", "{0020F201-47C1-4B7A-AAB9-04A8747FD7C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{1842D3A2-1A8A-465F-AED4-9E76A3302A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathDaishiMicroservice", "MathMicroservice\MathDaishiMicroservice.csproj", "{D6725E7F-BDFA-414B-8DF6-839AFB381CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathDaishiWebAPIMicroservice", "MathDaishiWebAPIMicroservice\MathDaishiWebAPIMicroservice.csproj", "{B44A524F-4A83-4758-8E8A-4E40898C9BC0}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MathWebAPICoreMicroservice", "MathWebAPICoreMicroservice\MathWebAPICoreMicroservice.xproj", "{EFCE3EBF-0AF5-491E-9127-540DF6641DCA}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RequestResponseEasyNetQWebSrv", "RequestResponseEasyNetQWebSrv\RequestResponseEasyNetQWebSrv.xproj", "{A2C2E449-7ACD-4180-B123-BEB36B4CD531}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RequestResponseEasyNetQMicroservice", "RequestResponseEasyNetQMicroservice\RequestResponseEasyNetQMicroservice.xproj", "{488B22BF-87AA-4564-8B61-E4738B892810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF550130-00EB-425D-8288-064C78966F35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF550130-00EB-425D-8288-064C78966F35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF550130-00EB-425D-8288-064C78966F35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF550130-00EB-425D-8288-064C78966F35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0020F201-47C1-4B7A-AAB9-04A8747FD7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0020F201-47C1-4B7A-AAB9-04A8747FD7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0020F201-47C1-4B7A-AAB9-04A8747FD7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0020F201-47C1-4B7A-AAB9-04A8747FD7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6725E7F-BDFA-414B-8DF6-839AFB381CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6725E7F-BDFA-414B-8DF6-839AFB381CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6725E7F-BDFA-414B-8DF6-839AFB381CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6725E7F-BDFA-414B-8DF6-839AFB381CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44A524F-4A83-4758-8E8A-4E40898C9BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44A524F-4A83-4758-8E8A-4E40898C9BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44A524F-4A83-4758-8E8A-4E40898C9BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44A524F-4A83-4758-8E8A-4E40898C9BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCE3EBF-0AF5-491E-9127-540DF6641DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCE3EBF-0AF5-491E-9127-540DF6641DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCE3EBF-0AF5-491E-9127-540DF6641DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCE3EBF-0AF5-491E-9127-540DF6641DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2C2E449-7ACD-4180-B123-BEB36B4CD531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C2E449-7ACD-4180-B123-BEB36B4CD531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C2E449-7ACD-4180-B123-BEB36B4CD531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C2E449-7ACD-4180-B123-BEB36B4CD531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{488B22BF-87AA-4564-8B61-E4738B892810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488B22BF-87AA-4564-8B61-E4738B892810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488B22BF-87AA-4564-8B61-E4738B892810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488B22BF-87AA-4564-8B61-E4738B892810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6725E7F-BDFA-414B-8DF6-839AFB381CD4} = {1842D3A2-1A8A-465F-AED4-9E76A3302A23}
+		{B44A524F-4A83-4758-8E8A-4E40898C9BC0} = {1842D3A2-1A8A-465F-AED4-9E76A3302A23}
+		{EFCE3EBF-0AF5-491E-9127-540DF6641DCA} = {1842D3A2-1A8A-465F-AED4-9E76A3302A23}
+		{488B22BF-87AA-4564-8B61-E4738B892810} = {1842D3A2-1A8A-465F-AED4-9E76A3302A23}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ssak32devrepo.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MathCalcWebSrv\\MathCalcDaishiAMQPWebSrv.csproj
+		SccProjectName1 = MathCalcWebSrv
+		SccLocalPath1 = MathCalcWebSrv
+		SccProjectUniqueName2 = MathCalcDefaultWebSrv\\MathCalcDefaultWebSrv.csproj
+		SccProjectName2 = MathCalcDefaultWebSrv
+		SccLocalPath2 = MathCalcDefaultWebSrv
+		SccProjectUniqueName3 = MathMicroservice\\MathDaishiMicroservice.csproj
+		SccProjectTopLevelParentUniqueName3 = MathCalcWebSrv.sln
+		SccProjectName3 = MathMicroservice
+		SccLocalPath3 = MathMicroservice
+		SccProjectUniqueName4 = MathDaishiWebAPIMicroservice\\MathDaishiWebAPIMicroservice.csproj
+		SccProjectTopLevelParentUniqueName4 = MathCalcWebSrv.sln
+		SccProjectName4 = MathDaishiWebAPIMicroservice
+		SccLocalPath4 = MathDaishiWebAPIMicroservice
+		SccProjectUniqueName5 = MathWebAPICoreMicroservice\\MathWebAPICoreMicroservice.xproj
+		SccProjectTopLevelParentUniqueName5 = MathCalcWebSrv.sln
+		SccProjectName5 = MathWebAPICoreMicroservice
+		SccLocalPath5 = MathWebAPICoreMicroservice
+		SccProjectUniqueName6 = RequestResponseEasyNetQWebSrv\\RequestResponseEasyNetQWebSrv.xproj
+		SccProjectName6 = RequestResponseEasyNetQWebSrv
+		SccLocalPath6 = RequestResponseEasyNetQWebSrv
+		SccProjectUniqueName7 = RequestResponseEasyNetQMicroservice\\RequestResponseEasyNetQMicroservice.xproj
+		SccProjectTopLevelParentUniqueName7 = MathCalcWebSrv.sln
+		SccProjectName7 = RequestResponseEasyNetQMicroservice
+		SccLocalPath7 = RequestResponseEasyNetQMicroservice
+	EndGlobalSection
+EndGlobal

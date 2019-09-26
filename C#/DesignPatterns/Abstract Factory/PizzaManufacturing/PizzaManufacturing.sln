@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaManufacturing", "PizzaManufacturing\PizzaManufacturing.csproj", "{973BB69D-67B5-4666-831F-6298468487B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Base", "Base", "{3928845E-3BBA-468C-BC7C-1E56CD9537DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseFramework", "BaseFramework\BaseFramework.csproj", "{9D1A9386-5E26-4B7B-95C0-85AF323345C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{973BB69D-67B5-4666-831F-6298468487B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973BB69D-67B5-4666-831F-6298468487B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973BB69D-67B5-4666-831F-6298468487B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973BB69D-67B5-4666-831F-6298468487B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1A9386-5E26-4B7B-95C0-85AF323345C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1A9386-5E26-4B7B-95C0-85AF323345C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1A9386-5E26-4B7B-95C0-85AF323345C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1A9386-5E26-4B7B-95C0-85AF323345C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9D1A9386-5E26-4B7B-95C0-85AF323345C4} = {3928845E-3BBA-468C-BC7C-1E56CD9537DE}
+	EndGlobalSection
+EndGlobal

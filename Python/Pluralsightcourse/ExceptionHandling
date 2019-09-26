@@ -1,0 +1,14 @@
+student = {
+    "name": "Mark",
+    "student_id": 12345,
+    "feedback": None
+}
+
+try:
+    last_name = student["last_name"]
+except KeyError:
+    print("Error finding last_name")
+except Exception:
+    print("Unknown error")
+
+print("This code executes!")

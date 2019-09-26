@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="DropdownSearch\DropdownSearch.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_23_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DropdownSearch\MainActivity.cs">
+    <Files>
+      <File FileName="DropdownSearch\MainActivity.cs" Line="31" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

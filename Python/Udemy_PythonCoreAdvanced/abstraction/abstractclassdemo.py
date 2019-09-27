@@ -1,7 +1,6 @@
 from abc import abstractmethod, ABC
 
-
-class BMW(ABC):  # ABC - setting a class a abstract class
+class BMW(ABC):  # ABC - setting a class as a abstract class
     def __init__(self, make, model, year):
         self.make = make
         self.model = model
